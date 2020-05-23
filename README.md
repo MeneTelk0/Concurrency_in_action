@@ -1,6 +1,6 @@
 # Concurrency_in_action
 
-Usage of `C++11 threads` library with examples from "Concurrency in Action" book written by Anthony Williams
+Usage of `C++11 threads` library with help of "Concurrency in Action" book written by Anthony Williams
 
 ## Program 1
 
